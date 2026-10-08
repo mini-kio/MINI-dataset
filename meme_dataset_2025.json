@@ -3,7 +3,7 @@
     "title": "2025년 인터넷 밈 데이터셋",
     "description": "최신 인터넷 밈들에 대한 input-output 형태의 대화 데이터셋",
     "created_date": "2025-06-04",
-    "total_samples": 96
+    "total_samples": 90
   },
   "data": [
     {
